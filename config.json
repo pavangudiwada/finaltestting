@@ -8,7 +8,7 @@
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Made with ",
+  "footer": "Made with ❤️",
   "usage-stats": true,
   "thumb-size": 200
 }
